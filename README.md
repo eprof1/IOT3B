@@ -1,6 +1,6 @@
 <a href="https://eprof1.github.io/IOT3B/" target="_blank">GitHub IoT3B Pages</a>
 
-# need to add new and renumbered assignments, 9/11/2022
+# new and renumbered assignments not totally updated yet, 1/28/23; 9/11/2022
 
 Assignment Links
 * <a href="https://eprof1.github.io/IOT3B/HomePage.html" target="_blank">HomePage</a>
