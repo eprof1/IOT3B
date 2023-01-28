@@ -1,14 +1,14 @@
-<a href="https://eprof1.github.io/IOT3B/" target="_blank">GitHub IoT Pages</a>
+<a href="https://eprof1.github.io/IOT3B/" target="_blank">GitHub IoT3B Pages</a>
 
 # need to add new and renumbered assignments, 9/11/2022
 
 Assignment Links
 * <a href="https://eprof1.github.io/IOT3B/IOT00/IOT00.html" target="_blank">IOT00-Operating a Raspberry Pi</a>
-* <a href="https://eprof1.github.io/IOT3B/IOTP01/IOTP01.html" target="_blank">IOTP01-Single Board Computers</a>
-* <a href="https://eprof1.github.io/IOT3B/IOTP02/IOTP02.html" target="_blank">IOTP02-VNC-GUI RPi</a>
-* <a href="https://eprof1.github.io/IOT3B/IOTP03/IOTP03.html" target="_blank">IOTP03-SSH-CLI RPi</a>
-* <a href="https://eprof1.github.io/IOT3B/IOTA01/IOTA01.html" target="_blank">IOTA01-Arduino UNO Setup</a>
-* <a href="https://eprof1.github.io/IOT3B/IOTB01/IOTB01.html" target="_blank">IOTB01-micro:bit Setup</a>
+* <a href="https://eprof1.github.io/IOT3B/IOT01/IOT01.html" target="_blank">IOT01-Raspberry Pi-Setup</a>
+* <a href="https://eprof1.github.io/IOT3B/IOT02/IOT02.html" target="_blank">IOT02-VNC-GUI RPi</a>
+* <a href="https://eprof1.github.io/IOT3B/IOT03/IOT03.html" target="_blank">IOT03-SSH-CLI RPi</a>
+* <a href="https://eprof1.github.io/IOT3B/IOT04/IOT04.html" target="_blank">IOT04-WaveMon</a>
+* <a href="https://eprof1.github.io/IOT3B/IOT05/IOT05.html" target="_blank">IOT05-Apache Webserver</a>
 * 
 * <a href="https://eprof1.github.io/IOT3B/IOT01/IOT01.html" target="_blank">IOT01-RPi, WaveMon</a>
 * <a href="https://eprof1.github.io/IOT3B/IOT02/IOT02.html" target="_blank">IOT02-RPi, Apache2</a>
