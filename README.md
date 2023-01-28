@@ -3,6 +3,7 @@
 # need to add new and renumbered assignments, 9/11/2022
 
 Assignment Links
+* <a href="https://eprof1.github.io/IOT3B/HomePage.html" target="_blank">HomePage</a>
 * <a href="https://eprof1.github.io/IOT3B/IOT00/IOT00.html" target="_blank">IOT00-Operating a Raspberry Pi</a>
 * <a href="https://eprof1.github.io/IOT3B/IOT01/IOT01.html" target="_blank">IOT01-Raspberry Pi-Setup</a>
 * <a href="https://eprof1.github.io/IOT3B/IOT02/IOT02.html" target="_blank">IOT02-VNC-GUI RPi</a>
