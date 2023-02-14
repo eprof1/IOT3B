@@ -159,6 +159,7 @@
 
                 <li>On your laptop, start mu.<br />
                     If a &#39;Select Mode&#39; window appears, choose &#39;BBC micro:bit&#39;, then press OK.<br />
+                    Otherwise on the left end of the toolbar choose &#39;Mode&#39;, then choose &#39;BBC micro:bit&#39;, then press OK.<br />
                     <p>
                         <abbr title="split screen synched"><a href="images/StartMu.PNG" class="img-responsive img-rounded" target="popup" onclick="window.open('images/StartMu.PNG', 'popup'); return false;">
                             <img src="images/StartMu.PNG" width="300" alt="Mu Mode" class="img-responsive img-responsive" /></a></abbr> Mu Mode
@@ -166,11 +167,20 @@
                 </li>
 
 
-                <li>This is what the mu editor looks like in micro:bit Mode, with a simple program.<br />
+                <li> This is what the mu editor looks like in micro:bit Mode, with a simple program.<br />
                     <p>
                         <a href="images/MuSet.PNG" class="img-responsive img-rounded" target="popup" onclick="window.open('images/MuSet.PNG', 'popup'); return false;">
                             <img src="images/MuSet.PNG" width="300" alt="Mu Editor" class="img-responsive img-responsive" /></a>Mu Code Editor
                     </p>
+                </li>
+
+                <li> Check the lower right status bar, if the following red circle with a white X appears, either the micro:bit is not connected, or the connection is bad. <br />
+                    Investigate and correct.<br />
+                    <p>
+                        <a href="images/connectionProblem.PNG" class="img-responsive img-rounded" target="popup" onclick="window.open('images/connectionProblem.PNG', 'popup' ); return false;">
+                            <img src="images/connectionProblem.PNG" width="100" alt="connection problem" class="img-responsive img-responsive" /></a>micro:Bit Connection Problem
+                    </p>
+
                 </li>
 
             </ol>
@@ -272,16 +282,15 @@ display.scroll("WELCOME TO MIS!")
 
 from microbit import *
 
-display.scroll("WELCOME TO MIS!")
+display.scroll("! M I S !")
 
 while True:
-    if button_a.is_prssed():
+    if button_c.is_pressed():
         display.show(Image.HAPPY)
     elif button_b.is_pressed():
-        display.scroll("I love coding!",delay=100,wait=True,loop=False, monospace=False)
+        display.scroll(" I love coding ! ")
     else:
         display.show(Image.SAD)
-
 display.clear()
 </pre>
                     <br />
@@ -298,7 +307,11 @@ display.clear()
                 </li>
 
                 <li>Modify the program as required so that is works.<br />
-                    <strong>There are errors in the code!</strong>
+                    <strong>There is an error in the code!</strong>
+                </li>
+
+                <li>
+                    Hint-Google the error message.
                 </li>
 
                 <li>When you think the program is ready, flash the micro:bit and try it out.<br />
